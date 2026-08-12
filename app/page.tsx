@@ -29,7 +29,7 @@ export default function Home() {
       <header className="border-b border-zinc-200 bg-white">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
           <a href="#" className="text-2xl font-black tracking-tight">
-            AUTO<span className="text-blue-600">PRIME</span>
+            AUTO<span className="text-blue-600">VOGA</span>
           </a>
 
           <nav className="hidden items-center gap-8 md:flex">
