@@ -11,14 +11,14 @@ const cars = [
     model: "Civic Touring",
     year: "2023",
     price: "R$ 154.990",
-    image: "🚗",
+    image: "/WhatsApp Image 2026-08-11 at 22.12.51.jpeg",
   },
   {
     brand: "Jeep",
     model: "Compass Limited",
     year: "2024",
     price: "R$ 169.990",
-    image: "🚙",
+    image: "/WhatsApp Image 2026-08-11 at 22.12.51 (2).jpeg",
   },
 ];
 
