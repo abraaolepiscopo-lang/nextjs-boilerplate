@@ -104,8 +104,12 @@ export default function Home() {
 
             <div className="relative w-full max-w-lg">
               <div className="rounded-3xl border border-white/10 bg-white/5 p-8 shadow-2xl backdrop-blur">
-                <div className="flex h-64 items-center justify-center rounded-2xl bg-gradient-to-br from-zinc-800 to-zinc-950">
-                  <span className="text-[150px] drop-shadow-2xl">🚘</span>
+                <div className="flex h-64 items-center justify-center rounded-2xl bg-zinc-900 overflow-hidden">
+                  <img
+                    src="/WhatsApp Image 2026-08-11 at 22.12.50.jpeg"
+                    alt="Toyota Corolla"
+                    className="h-full w-full object-cover"
+                  />
                 </div>
 
                 <div className="mt-6 flex items-end justify-between">
