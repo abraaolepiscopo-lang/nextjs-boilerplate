@@ -197,11 +197,13 @@ export default function Home() {
               key={car.model}
               className="group overflow-hidden rounded-2xl border border-zinc-200 bg-white transition hover:-translate-y-1 hover:shadow-xl"
             >
-              <div className="flex h-56 items-center justify-center bg-zinc-100">
-                <span className="text-8xl transition group-hover:scale-110">
-                  {car.image}
-                </span>
-              </div>
+              <div className="flex h-56 items-center justify-center bg-zinc-100 overflow-hidden">
+                <img
+                    src={car.image}
+                    alt={`${car.brand} ${car.model}`}
+                    className="h-full w-full object-cover transition group-hover:scale-105"
+                  />
+                </div>
 
               <div className="p-6">
                 <div className="flex items-center justify-between">
