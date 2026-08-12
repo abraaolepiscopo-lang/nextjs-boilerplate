@@ -4,7 +4,7 @@ const cars = [
     model: "Corolla XEi",
     year: "2024",
     price: "R$ 139.990",
-    image: "image: "/WhatsApp Image 2026-08-11 at 22.12.50.jpeg"",
+    image: "/WhatsApp Image 2026-08-11 at 22.12.50.jpeg",
   },
   {
     brand: "Honda",
